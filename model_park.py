@@ -99,7 +99,7 @@ test = build_layers(
         10,
         50,
     ]
-    )
+)
 
 
 summary_grid = train_model_grid(
