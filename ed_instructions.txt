@@ -1,0 +1,4 @@
+Please git clone from the git repo and follow the readme instructions.
+This won't run on ed and has a much more complex structure than suggested
+
+https://github.com/marcishak/math5836-ass2
